@@ -1,0 +1,79 @@
+body{
+    background:  hsl(225, 100%, 94%);
+    user-select: none;
+}
+
+.order-card{
+    width: 18rem;
+    text-align: center;
+    border-radius: 1.5rem;
+    margin: 5rem auto;
+    background: #fff;
+}
+
+.order-image-container img{
+    width: 18rem;
+    border-radius: 1.5rem 1.5rem 0 0;
+}
+
+.heading{
+    font-weight: 700;
+    color: hsl(223, 47%, 23%);
+}
+
+.description{
+    font-size: 16px;
+    margin:  1rem 2.2rem;
+    color: hsl(224, 23%, 55%);
+    line-height: 1.5rem;
+}
+
+.price-container{
+    display: flex;
+    flex-direction: row;
+    flex-grow: 1;
+    background-color: hsl(225, 100%, 98%);
+    margin: 0 1rem;
+    border-radius: 1rem;
+    padding: 0.5rem;
+}
+
+.price-container div:nth-of-type(2){
+    flex-grow: 1;
+}
+
+.price-container div:nth-of-type(3){
+    flex-grow: 1;
+}
+
+.plan{
+    margin-top: -0.6rem;
+}
+.plan p:nth-child(2){
+    margin: -1rem;
+    color: hsl(224, 23%, 55%);
+}
+.change{
+    margin-top: 0.8rem;
+    font-size: small;
+}
+
+.btns{
+    display: flex;
+    flex-direction: column;
+    margin: 1rem;
+}
+
+.btns button{
+    margin: 0.2rem;
+    padding: 1em;
+    border: none;
+    border-radius: 1rem;
+    background: none;
+    cursor: pointer;
+}
+
+.btns button:first-child{
+    background-color:   hsl(245, 75%, 52%);
+    color: #fff;
+}
