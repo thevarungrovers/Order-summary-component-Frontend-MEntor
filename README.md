@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/order-summary-component-using-html-and-css-kb7M7He0B](https://www.frontendmentor.io/solutions/order-summary-component-using-html-and-css-kb7M7He0B)
+- Live Site URL: [https://friendly-ptolemy-c6a8b1.netlify.app](https://friendly-ptolemy-c6a8b1.netlify.app)
 
 
 ### Built with
